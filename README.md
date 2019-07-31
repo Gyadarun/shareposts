@@ -1,3 +1,3 @@
 shareposts
 
-Messagerie de type forum
+Forum lite
